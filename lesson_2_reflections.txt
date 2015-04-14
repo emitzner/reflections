@@ -10,3 +10,8 @@ The staging area is a temporary space where you can make changes prior to commit
 
 The working directory is active, the repo saves things in different states, but the staging area is a sort of middle ground to move files around. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can compare changes in the working directory to the staging area before adding documents, to be sure what is happening.
+
+Then you can compare what is in the staging area to the current commit to be sure that you commit only what you expect. 
