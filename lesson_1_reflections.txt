@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+The differences highlighted the edits, which focuses your view to things that are unique to each version.
+
+While different versions may have been intentionally changed, checking all the differences isolates something that could be wrong. 
+
+You have to spend far less time checking things that are correct when the system pulls out some for you. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Checking old versions can find mistakes, as well as let you test out different settings or templates. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does? 
+
+Pros: more logical stopping points, have description about major changes, less excess random changes (for instance changing font or some such)
+
+Cons: hard to know when exactly to commit, may not commit often enough and miss major changes or bugs, may commit too often and have superflous versions saved taking up space
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately? 
+
+Since the save is manual, you're looking for a logical change. 
+Some changes my only affect one file, but if there's a change that affects multiple files, it makes sense to save them all at once so you can  track that across versions. 
+You don't always need to, and if you're saving automatically, it only works to keep tracking a single file. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log shows the complete history of commits, and with a flag like stats, can see the size of changes
+
+Git diff shows that actual line by line edits being made in each commit. 
+How might using version control make you more confident to make changes that could break something?
+
+If you've saved a version of code before you make any big changes, you can always go back and revert to that version. 
+Even if there is a big bug, you can get to the old version and see what your issue might be, freeing you a bit. 
+
+Now that you have your workspace set up, what do you want to try using Git for? 
+
+I'm happy to have the settings more legible and more consistent with the instructor. 
+
+I know that there are many ways to configure set-up, but it's nice to know things will be consistent until I have a better grasp. 
