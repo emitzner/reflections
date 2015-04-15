@@ -30,3 +30,8 @@ How do the diagrams help you visualize the branch structure?
 
 More than most concepts, branches represent something akin to actual physical branches.
 Its easier to think about how something could branch off, and how you can't reach it in the visual state. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When you merge two branches, all the parent commits are combined to keep changes for all versions. 
+The diagram shows the history of both branches coming out of the new master, because all previous commits are saved and reachable. 
