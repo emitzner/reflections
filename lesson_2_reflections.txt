@@ -35,3 +35,14 @@ What is the result of merging two branches together? Why do we represent it in t
 
 When you merge two branches, all the parent commits are combined to keep changes for all versions. 
 The diagram shows the history of both branches coming out of the new master, because all previous commits are saved and reachable. 
+
+What are the pros and cons of Git's automatic merging vs always doing merges manually?
+
+Pros:
+Catches many changes from many commits
+Fairly intelligent in seeing if things were deleted/added
+Manual takes time to make decisions
+
+Cons:
+Possible that things are duplicated 
+Not all functions register as conflicts to resolve
