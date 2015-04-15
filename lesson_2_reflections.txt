@@ -25,3 +25,8 @@ different version. Also, if you are working on something with others,
 making your changes in a branch might let you test out your version
 without messing up theirs. Branches help because they allow the master
 to stay constant without having to jump back and forth. 
+
+How do the diagrams help you visualize the branch structure?
+
+More than most concepts, branches represent something akin to actual physical branches.
+Its easier to think about how something could branch off, and how you can't reach it in the visual state. 
