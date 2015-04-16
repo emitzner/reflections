@@ -29,3 +29,10 @@ If they had made any edits, you again would have to manually find each different
 It would be tedious.
 
 On the other hand, you need to know how to properly navigate GitHub for this to work, including the etiquette of not changing thigns for others. 
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+You'd want to use a separate branch when you're not sure if the change will be accepted or correct. 
+You can work independently on your change and try to get it right, and then share it with other collaborators.
+This allows for more conversation and edits without disrupting the master.
+It does take more steps to incorporate and make sure all versions are up to date though. 
