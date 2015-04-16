@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+If you are working collaboratively, it is helpful to save projects on GitHub, where multiple people can easily access
+and change files. Also, even if working by yourself, GitHub adds a layer of protection to saving, and lets you 
+reach your files on multiple computers (say if you work at home and work).
+
