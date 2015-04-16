@@ -15,3 +15,10 @@ Forks - when you want to edit/start from someone else's existing github repo
 Clones - when you want to edit a repo on github on a local machine
 
 Branches - when you want to start new edits to a feature or bug without disrupting your own master
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A copy of the remote state makes it easier to merge because you have something
+to compare local changes and remote changes with to make the merge decisions
+
+
