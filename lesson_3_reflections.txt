@@ -7,3 +7,11 @@ reach your files on multiple computers (say if you work at home and work).
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Others might make changes to a remote, or you may have changes that you aren't ready to share yet
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another? 
+
+Forks - when you want to edit/start from someone else's existing github repo
+
+Clones - when you want to edit a repo on github on a local machine
+
+Branches - when you want to start new edits to a feature or bug without disrupting your own master
