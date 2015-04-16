@@ -21,4 +21,11 @@ What is the benefit of having a copy of the last known state of the remote store
 A copy of the remote state makes it easier to merge because you have something
 to compare local changes and remote changes with to make the merge decisions
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
+Without Git version control, you would have to highlight all changes in each version. 
+Then you would need to share them manually with others and ask them to use that version. 
+If they had made any edits, you again would have to manually find each different and update. 
+It would be tedious.
+
+On the other hand, you need to know how to properly navigate GitHub for this to work, including the etiquette of not changing thigns for others. 
