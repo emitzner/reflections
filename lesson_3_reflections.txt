@@ -4,3 +4,6 @@ If you are working collaboratively, it is helpful to save projects on GitHub, wh
 and change files. Also, even if working by yourself, GitHub adds a layer of protection to saving, and lets you 
 reach your files on multiple computers (say if you work at home and work).
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Others might make changes to a remote, or you may have changes that you aren't ready to share yet
